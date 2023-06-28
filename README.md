@@ -97,9 +97,9 @@ The `Map` class also provides various methods to manipulate the linked list:
 - `Player` class: The `Player` class serves as the container for the linked list. It contains attributes such as `playerPosition`, and `mercy`. The `playerPosition` attribute points to the player location in the list. The `mercy` attribute stores the current mercy of the player.
 
 The `Player` class also provides various methods to manipulate the linked list:
-- `moveForward`: This method generates a random list of nodes with specified levels.
-- `moveBackward`: This method adds a new node to the end of the list.
-- `jumpOverNode`: This method deletes all the nodes in the map.
+- `moveForward`: This method move forward the player 1 step.
+- `moveBackward`: This method move backward the player 1 step.
+- `jumpOverNode`: This method allow the player to jump over 1 node.
 
 #### Usage
 The linked list data structure is used to represent the game map, which serves as the main gameplay element. The map is generated randomly using the `generateRandomList` method. The `append` method is used to add new nodes to the end of the list, and the `deleteMap` method is used to clear the map when needed.
@@ -110,23 +110,11 @@ Overall, the linked list data structure plays a crucial role in representing and
 
 ## Screenshots
 
-Add some screenshots of your game here. You can use any image hosting service such as Imgur or GitHub itself to upload your images and get their URLs. Then you can use Markdown syntax to embed them in your README file. For example:
+![Screenshot 1](https://github.com/jc2003-2003/CPT113-Hackathon2/blob/5b90054032b7e251469f05f9d730a6f675ff2246/Main%20Menu.jpeg)
 
-![Screenshot 1](YOUR-IMAGE-URL)
-
-![Screenshot 2](YOUR-IMAGE-URL)
+![Screenshot 2](https://github.com/jc2003-2003/CPT113-Hackathon2/blob/5b90054032b7e251469f05f9d730a6f675ff2246/Chapter%201.jpeg)
 
 ## Demo Video
-
-Add a link to your demo video here. You can use any video hosting service such as YouTube or Vimeo to upload your video and get its URL. Then you can use Markdown syntax to embed it in
-
-Source: Conversation with Bing, 6/28/2023
-(1) Create a ReadMe File in Git: Free Git Tutorial - Noble Desktop. https://www.nobledesktop.com/learn/git/create-a-readme-file.
-(2) Quickstart for writing on GitHub - GitHub Docs. https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github.
-(3) How to Write a Good README File for Your GitHub Project - freeCodeCamp.org. https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/.
-(4) How To Create A GitHub Profile README | monica*dev. https://aboutmonica.com/blog/how-to-create-a-github-profile-readme/.
-(5) Managing your profile README - GitHub Docs. https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme.
-(6) Ways to up your game with a ReadMe.md on GitHub - Medium. https://medium.com/digitalcrafts/ways-to-up-your-game-with-a-readme-md-on-github-35eae99ee289.
 
 
 
