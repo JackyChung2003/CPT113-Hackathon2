@@ -6,6 +6,17 @@
 
 # MISSING ILLUSION
 
+## Table of Contents
+- [Description](#description)
+- [Pre-requisites](#pre-requisites)
+- [Environment Setup](#environment-setup)
+- [Features](#features)
+- [How to Play](#how-to-play)
+- [Object-Oriented Concepts](#object-oriented-concepts)
+- [Data Structures](#data-structures)
+- [Screenshots](#screenshots)
+- [Demo Video](#demo-video)
+
 ## Description
 
  **Missing Illusion** is a text-based video game that follows the story of a boy who runs away from home to escape his life's challenges. The game begins when he stumbles upon a mysterious cave, setting the stage for an engaging adventure.
