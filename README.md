@@ -1,12 +1,39 @@
 # MISSING ILLUSION
-This is the final submission for CPT113 hackathon 2, with the final grade A.
 
 ## Description
 
- This game is about a boy who run away from home because of his problem faced in his life. And the game begin when he found a cave......
- 
- This game is inspired by one of our groupmates. In this game, user will face some monsters and they need dodge or faced them. The map and monsters are randomly generated and spawn in the game.
+ **Missing Illusion** is a text-based video game that follows the story of a boy who runs away from home to escape his life's challenges. The game begins when he stumbles upon a mysterious cave, setting the stage for an engaging adventure.
 
+ The game draws inspiration from one of our groupmates and features randomly generated maps and monsters, creating a dynamic and unpredictable gaming experience.
+
+## Pre-requisites and Environment Setup
+
+Before you can enjoy playing Missing Illusion, make sure you have the following pre-requisites and environment set up:
+
+- **Python**: Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
+
+- **Git**: You'll need Git to clone this repository. Download and install Git from [git-scm.com](https://git-scm.com/downloads).
+
+- **Clone the Repository**: Open your terminal or command prompt and run the following command to clone the repository:
+  ```shell
+  git clone https://github.com/jc2003-2003/CPT113-Hackathon2.git
+  ```
+
+- **Navigate to the Directory**: Change your working directory to the cloned repository:
+  ```shell
+  cd CPT113-Hackathon2
+  ```
+  
+- **Complile the program**: Using the g++ compiler to compile a C++ program:
+  ```shell
+  g++ -o program Node.cpp Player.cpp Map.cpp FileHandling.cpp GamePlay.cpp Script.cpp main.cpp
+  ```
+  
+Run the Game: Execute the game by running the following command:
+ ```bash
+ ./program
+ ```
+  
 ## Features
 
 The game incorporates several key features that enhance the gameplay experience. Here's an overview of these features:
