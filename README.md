@@ -1,4 +1,5 @@
 # MISSING ILLUSION
+This is the final submission for CPT113 hackathon 2, with the final grade A.
 
 ## Description
 
