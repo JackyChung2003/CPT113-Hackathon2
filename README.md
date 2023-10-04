@@ -6,18 +6,24 @@
 
  The game draws inspiration from one of our groupmates and features randomly generated maps and monsters, creating a dynamic and unpredictable gaming experience.
 
-## Pre-requisites and Environment Setup
+## Pre-requisites 
 
-Before you can enjoy playing Missing Illusion, make sure you have the following pre-requisites and environment set up:
+Before you can enjoy playing Missing Illusion, make sure you have the following pre-requisites set up:
 
 - **Python**: Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
 
+- **WinGW** (Minimalist GNU for Windows): Ensure you have WinGW installed on your system. WinGW is a development environment for C and C++ for Windows. You can download it from [winGW](https://sourceforge.net/projects/mingw/files/).
+
 - **Git**: You'll need Git to clone this repository. Download and install Git from [git-scm.com](https://git-scm.com/downloads).
+
+## Environment Setup
+
+Follow these steps to set up the environment for running the C++ program:
 
 - **Clone the Repository**: Open your terminal or command prompt and run the following command to clone the repository:
   ```shell
   git clone https://github.com/jc2003-2003/CPT113-Hackathon2.git
-  ```
+  ``` 
 
 - **Navigate to the Directory**: Change your working directory to the cloned repository:
   ```shell
@@ -28,11 +34,11 @@ Before you can enjoy playing Missing Illusion, make sure you have the following 
   ```shell
   g++ -o program Node.cpp Player.cpp Map.cpp FileHandling.cpp GamePlay.cpp Script.cpp main.cpp
   ```
-  
-Run the Game: Execute the game by running the following command:
- ```bash
- ./program
- ```
+
+- Run the Game: Execute the game by running the following command:
+  ```bash
+  ./program
+  ```
   
 ## Features
 
