@@ -3,7 +3,7 @@
  ![banner](https://github.com/jc2003-2003/CPT113-Hackathon2/blob/71be55d945afb97b46f072093e0a8b5e509c614b/images/MISSING%20ILLUSION%20Banner.png)
 
  </div>
-
+ 
 # MISSING ILLUSION
 
 ## Table of Contents
